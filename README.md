@@ -20,8 +20,13 @@ A collection of useful Blogger widgets & plugins to extend/enhance Blogger blog 
 ### send-form.min.js
 
 * Add shopping cart on Blogger blogs made super easy using Blogger widgets. Used with simpleCart(js), a lightweight javascript shopping cart plugij maintainded by the awesome people at wojodesign.com .
-* Requires jQuery
-* Requires simplecart(js)
+* Requires jQuery & simplecart(js)
+
+Plugin files & functionality includes:-
+
+* simpleCart(js) shopping cart setup for Blogger blogs.
+* Paypal checkout currency conversions.
+* Send order email integration with Blogger forms.
 
 ### pop-up-modal.min.js
 
