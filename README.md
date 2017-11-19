@@ -36,6 +36,10 @@ Plugin files & functionality includes:-
 
 * Pure javascript Blogger internal contents feed retriever with options to request up to 500 posts.
 
+### blogger-product-feed.min.js
+
+* Vanilla javascript Blogger internal contents product feed retriever with options to request up to 500 posts.
+
 ## Contributing
 
 [irsah indesigns](https://blog.irsah.com)
