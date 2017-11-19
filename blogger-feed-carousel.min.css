@@ -1,3 +1,13 @@
+/*
+@Project:	  Vanilla Javascript Ultimate Blogger Feed/Contents Post Crousel/Slider
+@Platform:	Made for Blogger
+@Created:	  Oct 2017
+@Author:	  https://blog.irsah.com
+@Version:   0-9-0
+@Creative Commons Attribution 3.0 Unported License http://creativecommons.org/licenses/by/3.0
+@Dependecies:
+  slickJs -- The Last Carousel You'll Ever Need by @KenWheeler
+*/
 .slick-slider a { outline: 0; }
 .slick-slider img { max-width: 100%; height: auto; }
 .slick-slider { position: relative; overflow: hidden; list-style:none; padding: 0; margin: 0;  } 
