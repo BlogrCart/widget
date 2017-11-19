@@ -20,9 +20,9 @@
 .slick-prev { right: 0; }
 .slick-slider .slick-active .feed-caption { opacity: 1; bottom: 0; }
 .slick-slider .slick-active:hover .feed-caption { bottom: -100%; }
-.slick-slider .slick-dots { text-align: center; border: 0; height: 8px; margin-bottom: 10px; }
+.slick-slider .slick-dots { margin: 0 0 10px; padding: 0; text-align: center; border: 0; height: 8px; }
 .slick-slider .slick-dots > li { border-right:1px solid #eee; display:table-cell; width: 1%; height: 8px; }
-.slick-dots button { height:8px; line-height:1; opacity:.25; outline:0; border:0; background-color: #aaa; display:block; width:100%; color:transparent; padding:0; }
+.slick-dots button { height: 8px; line-height: 1; opacity: .25; outline: 0; border: 0; background-color: #aaa; display: block; width: 100%; color: transparent; padding: 0; }
 .slick-slider .slick-dots > li:last-child { border-right: 0; }
 .slick-slider .slick-active button { background-color: #333; opacity:.87; }
 .slick-slider .slick-dots button:hover, .slick-slider .slick-dots button:focus { opacity:.87; outline:0; border:0; }
